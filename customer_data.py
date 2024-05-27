@@ -59,3 +59,6 @@ def main():
      plt.tight_layout()
      plt.show()
      """
+     
+if '__name__' == '__main__':
+     main()
